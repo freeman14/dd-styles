@@ -1,0 +1,9 @@
+{
+    "files": [
+        "./assets/svg/**/*.svg"
+    ],
+    "fontName": "dd-icon-font",
+    "classPrefix": "icon-",
+    "baseClass": "icon",
+    "fixedWidth": true
+}

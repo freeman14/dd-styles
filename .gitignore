@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+report
+docs
+/app
+.tmp
+.tscache
+.vscode
+.idea
+.history
+.DS_Store
+out
